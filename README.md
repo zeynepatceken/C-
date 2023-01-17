@@ -1,4 +1,5 @@
-# C-
+# C Sharp
+
 Ogrenci Bilgi Sistemi
 
 using System;
